@@ -53,3 +53,16 @@ flowchart LR
 - Y Combinator,《Jensen Huang: The Mindset That Built NVIDIA》，Startup School 2026，2026-07-26：
   - [20:03](https://www.youtube.com/watch?v=I4B37S1dyQQ&t=1203s)
   - [20:44](https://www.youtube.com/watch?v=I4B37S1dyQQ&t=1244s)
+
+## 影片當時引用
+
+已發布的第 2 集影片與說明欄實際標示的來源：
+
+- Y Combinator《Jensen Huang: The Mindset That Built NVIDIA》（Startup School 2026，2026-07-26）https://www.youtube.com/watch?v=I4B37S1dyQQ
+  - 20:03 系統理解、系統感知、系統設計、系統組織、系統思考
+  - 20:03–20:35 低階的事會由 AI 代理自動完成
+  - 20:44–21:25 抽象地思考系統：限制、輸入輸出、資訊進出速率、瓶頸
+- 畫面英文為自動字幕去口吃後的原句；本頻道與 NVIDIA、Y Combinator 無關聯。
+
+**背景音樂**：Doodles ( LoFi , Happy ) by HoliznaCC0，CC0 1.0 公眾領域貢獻
+https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/doodles-lofi-happy-mp3/

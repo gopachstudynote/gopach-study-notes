@@ -40,14 +40,30 @@ timeline
 
 - **推導**：「問題的原因常常在自己的結構裡」是我們對這個故事的總結，不是 Forrester 的原話。
 - **備註（影片的簡化）**：影片寫「每 3 年起伏一次」。Forrester 1989 年演講的原話是「幾年後」（"a few years later"），他 1992 年的自傳章節寫「兩三年後」。「每 3 年一輪」是影片的簡化說法，不是原文。
-- **備註（來源說明）**：影片當時的出處標示用了維基百科。這份筆記改用上面的一手來源重新核對，GE 的故事以 Forrester 本人的敘述為準。
+- **備註（來源說明）**：影片當時的出處標示用了維基百科（見下方「影片當時引用」）。這份筆記另外用一手來源重新核對，GE 的故事以 Forrester 本人的敘述為準；上面兩段 Forrester 引文已對照 MIT D-4165-1 的 PDF 全文逐字核對（"were sometimes working three and four shifts…" 在該文第 6 頁）。
 - 1948 與 1950 兩個年份是書目資訊（Wiener《Cybernetics》1948；Bertalanffy "An Outline for General Systems Theory" 1950），本次沒有打開原書原文；「控制論」一詞取自希臘文「舵手」的說法，同樣未對照原書。
 
 ## 來源
 
-- Jay W. Forrester, "The Beginning of System Dynamics," 1989（見 [references.md](../references.md)）
+- Jay W. Forrester, "The Beginning of System Dynamics," 1989（✅ 已開 PDF 核對；見 [references.md](../references.md)）
 - Donella H. Meadows, "Leverage Points: Places to Intervene in a System," 1999
 - Norbert Wiener, *Cybernetics*, 1948（⚠️ 書目資訊）
 - Ludwig von Bertalanffy, "An Outline for General Systems Theory," 1950（⚠️ 書目資訊）
 - Peter Senge, *The Fifth Discipline*, 1990（⚠️ 書目資訊）
 - Donella H. Meadows, *Thinking in Systems*, 2008
+
+## 影片當時引用
+
+已發布的第 1 集影片與說明欄，實際標示的來源如下（維持原樣列出，以便對照）：
+
+- Wikipedia：System dynamics https://en.wikipedia.org/wiki/System_dynamics
+- Wikipedia：Cybernetics https://en.wikipedia.org/wiki/Cybernetics
+- Wikipedia：Systems theory https://en.wikipedia.org/wiki/Systems_theory
+- Wikipedia：Peter Senge https://en.wikipedia.org/wiki/Peter_Senge
+- Donella Meadows〈Leverage Points: Places to Intervene in a System〉 https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/
+- The Donella Meadows Project：Systems Thinking Resources https://donellameadows.org/systems-thinking-resources/
+
+維基百科是百科全書，不是一手來源；上面的一手來源是我們後來補上的核對。
+
+**背景音樂**：Doodles ( LoFi , Happy ) by HoliznaCC0，CC0 1.0 公眾領域貢獻
+https://freemusicarchive.org/music/holiznacc0/public-domain-lofi/doodles-lofi-happy-mp3/

@@ -1,2 +1,0 @@
-📌 這集的免費開源筆記（含 multi-agent 的名詞解釋與 Anthropic 文章出處）：{REPO_URL}/episodes/08-multi-agent.md
-Anthropic 的 90.2% 是他們自己的內部評測，token 用量也約是一般聊天的 15 倍。你覺得什麼樣的任務，值得多花這個成本？留言討論。

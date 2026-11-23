@@ -8,7 +8,7 @@
 ## 系統思考的奠基者
 
 - ✅ Jay W. Forrester, "Counterintuitive Behavior of Social Systems," *Technology Review*, January 1971（MIT D-4468-1；原為 1970 年向美國眾議院的證詞）。用於：第 10 集（"Social systems belong to the class called multi-loop nonlinear feedback systems."）。
-- ✅ Jay W. Forrester, "The Beginning of System Dynamics," banquet talk at the international meeting of the System Dynamics Society, Stuttgart, 13 July 1989（MIT D-4165-1，作者 1996 年編修）。用於：第 1 集（GE 肯塔基家電廠的故事）。
+- ✅（已開 PDF 逐字核對引文）Jay W. Forrester, "The Beginning of System Dynamics," banquet talk at the international meeting of the System Dynamics Society, Stuttgart, 13 July 1989（MIT D-4165-1，作者 1996 年編修）。用於：第 1 集（GE 肯塔基家電廠的故事）。
   http://static.clexchange.org/ftp/documents/system-dynamics/SD1989-07BeginningofSD.pdf
 - ⚠️ Norbert Wiener, *Cybernetics: Or Control and Communication in the Animal and the Machine*, 1948。用於：第 1 集時間軸（書目資訊；本次未打開原書）。
 - ⚠️ Ludwig von Bertalanffy, "An Outline for General Systems Theory," 1950。用於：第 1 集時間軸（書目資訊；本次未打開原文）。
@@ -63,6 +63,11 @@
 
 - ✅ Jeremy Hadfield, Barry Zhang, Kenneth Lien, Florian Scholz, Jeremy Fox, Daniel Ford, "How we built our multi-agent research system," Anthropic Engineering, 2025-06-13。用於：第 8 集。
   https://www.anthropic.com/engineering/built-multi-agent-research-system
+
+## 第 1、2 集影片當時另外引用的來源
+
+- Wikipedia：System dynamics、Cybernetics、Systems theory、Peter Senge（第 1 集影片標示的出處；僅為背景，筆記不以它為依據）。
+- 背景音樂（第 1、2 集）：Doodles ( LoFi , Happy ) by HoliznaCC0，CC0 1.0。
 
 ## 沒有找到一手出處的說法（刻意不下定論）
 

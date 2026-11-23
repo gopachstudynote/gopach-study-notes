@@ -1,3 +1,0 @@
-📌 這集的免費開源筆記（含黃仁勳原話的時間點）：{REPO_URL}/episodes/02-jensen-systems-thinking.md
-黃仁勳的「系統五問」，你最想先拿來問自己哪一個問題？留言告訴我。
-（英文引文來自 YouTube 自動字幕，中文為意譯；本頻道與 NVIDIA、YC 無關聯。）
